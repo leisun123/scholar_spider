@@ -2,3 +2,7 @@ barretj1@ohio.edu :
 faliszek@ohio.edu : 
 mcvicar@ohio.edu : 
 mourning@ohio.edu : 
+barretj1@ohio.edu : 
+faliszek@ohio.edu : 
+mourning@ohio.edu : 
+chenw@ohio.edu : 

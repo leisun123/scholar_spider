@@ -33,7 +33,7 @@ DB_CONFIG={
     'DB_CONNECT_TYPE':'sqlalchemy',#'pymongo'sqlalchemy
     # 'DB_CONNECT_STRING':'mongodb://localhost:27017/'
     #'DB_CONNECT_STRING':'sqlite:///'+os.path.dirname(__file__)+'/data/proxy.db'
-    'DB_CONNECT_STRING' : "mysql+pymysql://root:123456@localhost/sc"
+    'DB_CONNECT_STRING' : "mysql+pymysql://root:123456@127.0.0.1:3306/sc?charset=utf8"
 }
 
 def get_ip_list(url, headers):

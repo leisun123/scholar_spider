@@ -28,8 +28,17 @@ class People(Base):       #建立数据表
     email = Column(String(64), unique=True)
     name = Column(String(32))
     major = Column(String(96))
-    web = Column(String(500))
+    web = Column(String(48))
     orginazation = Column(String(64))
+
+
+class Info(Base):
+    __tablename__ = "info"
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    name = Column(String(64), unique=True)
+    fullurl = Column(String(96))
+    mainurl = Column(String(500))
+
 
 
 def connect_db(mysql_url):
