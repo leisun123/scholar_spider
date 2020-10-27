@@ -16,7 +16,7 @@ chardet==3.0.4
 click==6.7
 colorama==0.3.9
 crypto==1.4.1
-cryptography==2.3.1
+cryptography==3.2
 cymysql==0.9.1
 enum-compat==0.0.2
 eventlet==0.21.0
