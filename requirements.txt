@@ -19,7 +19,7 @@ crypto==1.4.1
 cryptography==2.3.1
 cymysql==0.9.1
 enum-compat==0.0.2
-eventlet==0.21.0
+eventlet==0.31.0
 Flask==0.10.1
 Flask-Cache==0.13.1
 Flask-Cors==2.1.0
