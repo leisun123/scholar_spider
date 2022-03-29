@@ -44,7 +44,7 @@ Mako==1.0.7
 MarkupSafe==1.0
 mccabe==0.6.1
 Naked==0.1.31
-paramiko==2.4.2
+paramiko==2.10.1
 post==1.0.2
 public==2.0.1
 pyasn1==0.3.1
